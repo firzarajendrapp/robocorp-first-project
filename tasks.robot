@@ -28,12 +28,12 @@ Open website
 Add customer to CRM system
     Input Text    company-name    Firja Tech Sharing Session
     Input Text    company-contact    Rey
-    Input Text    address    Rawalumbu
-    Input Text    zipcode    17115
-    Input Text    city    Bekasi
+    Input Text    address    Rawabelong
+    Input Text    zipcode    --
+    Input Text    city    Palembang
     Input Text    country    Indonesia
     Input Text    telephone    082275637356
-    Input Text    email    firja.rajendra@rey.id
+    Input Text    email    firja.r@gmail.com
     Submit Form
 
 Download report and Save
